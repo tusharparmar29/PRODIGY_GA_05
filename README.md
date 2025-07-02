@@ -51,7 +51,7 @@ Apply the artistic style of one image (e.g., a painting) to the content of anoth
 
 ## 📸 Example Output
 
-![example](stylized.png)
+![example](stylized.jpg)
 
 ---
 
