@@ -32,7 +32,7 @@ Apply the artistic style of one image (e.g., a painting) to the content of anoth
 ## 📁 Project Structure
 
 📦 NeuralStyleTransfer/
-1) stylized.jpg # Final output image
+1) stylized.png # Final output image
 2) content.jpg # Uploaded content image
 3) style.jpg # Uploaded style image
 4) neural_style_transfer.ipynb # Colab notebook
@@ -51,7 +51,7 @@ Apply the artistic style of one image (e.g., a painting) to the content of anoth
 
 ## 📸 Example Output
 
-![example](stylized.jpg)
+![example](stylized.png)
 
 ---
 
